@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Emrah Genç</h1>
+<h1 align="center">👋 Hi, I'm Emrah Genc</h1>
 
 <!--
 **emrhgnc/emrhgnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
